@@ -2,12 +2,12 @@ Day 1 = Week 1, Day 1 (OSI + subnetting). Tomorrow, **Sunday**, is the best day 
 
 #### Before you start (finish any Week 0 setup you haven’t done, ~30 min)
 
-- [ ]  Install **Wireshark** for macOS
-- [ ]  Install **VirtualBox** or **VMware Fusion Pro**. On your Intel Mac either works, and Fusion is free for personal use. Workstation Pro, which the roadmap names, is the Windows/Linux version.
-- [ ]  Create the Obsidian vault with 4 notes: Detection Cookbook, Event ID Cheat Sheet, Playbooks, Networking
-- [ ]  Create the GitHub repo `soc-l1-journey` with a one-line README
-- [ ]  Bookmark CyberChef, VirusTotal, AbuseIPDB, URLScan.io, ANY.RUN and Hybrid Analysis
-- [ ]  Make a progress sheet with columns for date, hours, rooms done, artifacts published and checkpoint passed
+- [x]  Install **Wireshark** for macOS
+- [x]  Install **VirtualBox** or **VMware Fusion Pro**. On your Intel Mac either works, and Fusion is free for personal use. Workstation Pro, which the roadmap names, is the Windows/Linux version.
+- [x]  Create the Obsidian vault with 4 notes: Detection Cookbook, Event ID Cheat Sheet, Playbooks, Networking
+- [x]  Create the GitHub repo `soc-l1-journey` with a one-line README
+- [x]  Bookmark CyberChef, VirusTotal, AbuseIPDB, URLScan.io, ANY.RUN and Hybrid Analysis
+- [x]  Make a progress sheet with columns for date, hours, rooms done, artifacts published and checkpoint passed
 
 #### Learn (~45 min)
 
