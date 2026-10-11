@@ -8,48 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "735dab8628bf505c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Detection Cookbook.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Detection Cookbook"
-            }
-          },
-          {
-            "id": "ed6cc8b3328e0df6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Event ID Cheat Sheet.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Event ID Cheat Sheet"
-            }
-          },
-          {
-            "id": "25d542910ab9f738",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Playbooks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Playbooks"
-            }
-          },
-          {
             "id": "b0382aef29828d80",
             "type": "leaf",
             "state": {
@@ -64,21 +22,7 @@
             }
           },
           {
-            "id": "efaeab59d9911b16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Day 1"
-            }
-          },
-          {
-            "id": "1a73340f8fe3f453",
+            "id": "094f5d711789f254",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -91,8 +35,7 @@
               "title": "Day 1"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -272,10 +215,24 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "1a73340f8fe3f453",
+  "active": "b0382aef29828d80",
   "lastOpenFiles": [
-    "Networking.md",
     "Day 1.md",
+    "Professor Messer’s free N10-009 videos on the OSI model/Understanding the OSI Model - CompTIA Network+ N10-009 - 1.1.md",
+    "Untitled.md",
+    "Professor Messer’s free N10-009 videos on the OSI model",
+    "writeups/test",
+    "writeups",
+    "soc_roadmap.md",
+    "lab/test",
+    "lab",
+    "detections/test",
+    "detections",
+    "cheatsheets/test",
+    "cheatsheets",
+    "README.md",
+    "LICENSE",
+    "Networking.md",
     "Day0.md",
     "Event ID Cheat Sheet.md",
     "Detection Cookbook.md",
